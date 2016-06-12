@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C805AFCF1CF899560028B448 /* Velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Velocimetro.playground; sourceTree = "<group>"; };
 		C8B59F3E1CF810C2000F1B57 /* TareasCurso.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TareasCurso.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8B59F411CF810C2000F1B57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C8B59F431CF810C2000F1B57 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +48,7 @@
 		C8B59F5D1CF810C2000F1B57 /* TareasCursoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TareasCursoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8B59F611CF810C2000F1B57 /* TareasCursoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TareasCursoUITests.swift; sourceTree = "<group>"; };
 		C8B59F631CF810C2000F1B57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C8B59F6F1CF810F0000F1B57 /* JuegoMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JuegoMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +99,14 @@
 		C8B59F401CF810C2000F1B57 /* TareasCurso */ = {
 			isa = PBXGroup;
 			children = (
+				C8B59F6F1CF810F0000F1B57 /* JuegoMemoria.playground */,
 				C8B59F411CF810C2000F1B57 /* AppDelegate.swift */,
 				C8B59F431CF810C2000F1B57 /* ViewController.swift */,
 				C8B59F451CF810C2000F1B57 /* Main.storyboard */,
 				C8B59F481CF810C2000F1B57 /* Assets.xcassets */,
 				C8B59F4A1CF810C2000F1B57 /* LaunchScreen.storyboard */,
 				C8B59F4D1CF810C2000F1B57 /* Info.plist */,
+				C805AFCF1CF899560028B448 /* Velocimetro.playground */,
 			);
 			path = TareasCurso;
 			sourceTree = "<group>";
@@ -487,6 +491,7 @@
 				C8B59F681CF810C2000F1B57 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C8B59F691CF810C2000F1B57 /* Build configuration list for PBXNativeTarget "TareasCursoTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +500,7 @@
 				C8B59F6B1CF810C2000F1B57 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C8B59F6C1CF810C2000F1B57 /* Build configuration list for PBXNativeTarget "TareasCursoUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +509,7 @@
 				C8B59F6E1CF810C2000F1B57 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
